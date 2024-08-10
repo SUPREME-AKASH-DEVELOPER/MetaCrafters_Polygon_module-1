@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/db258b63-906b-4e36-88e1-d6276d069857)# MetaCrafters_Polygon_module-1
+# MetaCrafters_Polygon_module-1
 # Project Title: NFT Bridge from Ethereum to Polygon Using Polygon Bridge
 
 **Author:** Akash  
