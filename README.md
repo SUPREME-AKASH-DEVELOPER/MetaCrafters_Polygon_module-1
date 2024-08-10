@@ -100,3 +100,5 @@ Since the process of updating on the Amoy chain takes around 40-50 minutes, I’
 - [Etherscan Transaction](https://sepolia.etherscan.io/tx/0x1ae1db069c677f0dd1eea06e9ea13ae240b40977894026d1193b2778dc854936)
 
 ![image](https://github.com/user-attachments/assets/af384570-d998-44cf-9707-5a41cda77877)
+![image](https://github.com/user-attachments/assets/d7135205-47ee-480b-82d3-d1ee843045c2)
+
